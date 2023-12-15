@@ -1,0 +1,172 @@
+{
+  "numTotalTestSuites": 5,
+  "numPassedTestSuites": 4,
+  "numFailedTestSuites": 1,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 11,
+  "numPassedTests": 8,
+  "numFailedTests": 3,
+  "numPendingTests": 0,
+  "numTodoTests": 1,
+  "startTime": 1702633137607,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " adds 1 + 2 to equal 3",
+          "status": "passed",
+          "title": "adds 1 + 2 to equal 3",
+          "duration": 7,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " adds 1 + 2 + 3 to equal 4",
+          "status": "passed",
+          "title": "adds 1 + 2 + 3 to equal 4",
+          "duration": 5,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 1 number",
+          "status": "passed",
+          "title": "1 number",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " no number",
+          "status": "passed",
+          "title": "no number",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " my types work properly",
+          "status": "passed",
+          "title": "my types work properly",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " try the mocking functions",
+          "status": "passed",
+          "title": "try the mocking functions",
+          "duration": 8,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite unimplemented test",
+          "status": "todo",
+          "title": "unimplemented test",
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " snapshot",
+          "status": "passed",
+          "title": "snapshot",
+          "duration": 1,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1702633138841,
+      "endTime": 1702633138865,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/Takwa/Desktop/shneider/vitest/vitest-react/react-app/src/functions/sum.test.ts"
+    },
+    {
+      "assertionResults": [],
+      "startTime": 1702633137607,
+      "endTime": 1702633137607,
+      "status": "passed",
+      "message": "No test suite found in file C:/Users/Takwa/Desktop/shneider/vitest/vitest-react/react-app/src/components/Input/index.test.tsx",
+      "name": "C:/Users/Takwa/Desktop/shneider/vitest/vitest-react/react-app/src/components/Input/index.test.tsx"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "Input"
+          ],
+          "fullName": " Input should render the input",
+          "status": "failed",
+          "title": "should render the input",
+          "duration": 13,
+          "failureMessages": [
+            "document is not defined"
+          ],
+          "location": {
+            "line": 215,
+            "column": 5
+          }
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "Input"
+          ],
+          "fullName": " Input should change input value",
+          "status": "failed",
+          "title": "should change input value",
+          "duration": 1,
+          "failureMessages": [
+            "document is not defined"
+          ],
+          "location": {
+            "line": 215,
+            "column": 5
+          }
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "Input"
+          ],
+          "fullName": " Input should render the input with error",
+          "status": "failed",
+          "title": "should render the input with error",
+          "duration": 1,
+          "failureMessages": [
+            "document is not defined"
+          ],
+          "location": {
+            "line": 215,
+            "column": 5
+          }
+        }
+      ],
+      "startTime": 1702633140398,
+      "endTime": 1702633140413,
+      "status": "failed",
+      "message": "",
+      "name": "C:/Users/Takwa/Desktop/shneider/vitest/vitest-react/react-app/src/components/Input/input.test.tsx"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "react-lib",
+  "version": "1.0.0",
+  "description": "react library",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.1.5",
+    "@testing-library/react": "^14.1.2",
+    "@types/react": "^18.2.42",
+    "@types/testing-library__react": "^10.2.0",
+    "react": "^18.2.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.6",
+    "vitest": "^1.0.2"
+  }
+}
